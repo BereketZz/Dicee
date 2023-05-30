@@ -1,0 +1,17 @@
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/die
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/images/dice1.png
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/images/dice5.png
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/images/dice2.png
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/images/dice4.png
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/images/dice6.png
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/images/dice3.png
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/bereket/My_Flutter/Dice/die/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
